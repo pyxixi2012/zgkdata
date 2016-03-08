@@ -12,3 +12,6 @@
 
     select zgkdata and right click  ,select git -> commit directory
 
+# develop spark app in IDEA
+
+    http://ju.outofmemory.cn/entry/96015
