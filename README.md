@@ -12,6 +12,13 @@
 
     select zgkdata and right click  ,select git -> commit directory
 
+## QA
+    Github “fatal: remote origin already exists”
+
+    git remote rm origin
+
+    git remote add origin git@github.com:username/myapp.git
+
 # develop spark app in IDEA
 
     http://ju.outofmemory.cn/entry/96015
