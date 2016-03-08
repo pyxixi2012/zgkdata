@@ -5,10 +5,10 @@
     http://m.blog.csdn.net/article/details?id=9455147
     http://m.blog.csdn.net/article/details?id=9816153
 
-## create project using wizard ,File->Project->Spring Initializr  ,create a spring boot project
+# git project into github
+    create project using wizard ,File->Project->Spring Initializr  ,create a spring boot project
 
-## VCS-> Import into Version Control -> Share Project on GitHub
+    VCS-> Import into Version Control -> Share Project on GitHub
 
-## select zgkdata and right click  ,select git -> commit directory
+    select zgkdata and right click  ,select git -> commit directory
 
-##
