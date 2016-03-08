@@ -7,9 +7,7 @@ package com.zgg;
 public class Widget {
 
     private String type;
-
     private int length;
-
     private int height;
 
     public Widget(String type, int length, int height) {
