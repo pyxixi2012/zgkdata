@@ -12,7 +12,7 @@
 
     select zgkdata and right click  ,select git -> commit directory
 
-## QA
+## Q&A
     Github “fatal: remote origin already exists”
 
     git remote rm origin
